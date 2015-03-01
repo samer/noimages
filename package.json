@@ -1,0 +1,10 @@
+{
+  "name": "noimages",
+  "title": "No Images",
+  "id": "jid1-AD2ctd6s7qUxmw",
+  "description": "A global toggle for disabling image loading in Firefox.",
+  "author": "Samer (https://samer.cc)",
+  "license": "MIT",
+  "version": "0.1",
+  "icon":"./data/icon-64.png"
+}
